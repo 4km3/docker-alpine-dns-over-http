@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.6
 MAINTAINER Rodrigo de la Fuente <rodrigo@delafuente.email>
 
 RUN set -e;                                                                                   \
